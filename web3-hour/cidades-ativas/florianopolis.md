@@ -2,7 +2,7 @@
 
 ### Quando
 
-xxx-feira às 00:00
+Toda quarta-feira às 19:30
 
 ### Onde
 
@@ -36,4 +36,4 @@ Celular:&#x20;
 #### Ricardo Monteiro
 
 Discord: ricamonteiro#3882\
-Celular:
+Celular: (92)981420113
