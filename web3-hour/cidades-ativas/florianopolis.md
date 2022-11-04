@@ -2,7 +2,7 @@
 
 ### Quando
 
-xxx-feira às 00:00
+Toda quarta-feira às 19:30
 
 ### Onde
 
@@ -21,19 +21,19 @@ R. Manoel Isidoro da Silveira, 655 - Lagoa da Conceição, Florianópolis - SC, 
 #### Anna Bida
 
 Discord: Anna Bida#8092\
-Celular:&#x20;
+Celular: (34)91459980
 
 #### Yan Luiz
 
 Discord: yanluiz.eth#8146\
-Celular:&#x20;
+Celular:  (34)92990822
 
 #### Paulo Gio
 
 Discord: paulogio#8134\
-Celular:&#x20;
+Celular: (31)984997592
 
 #### Ricardo Monteiro
 
 Discord: ricamonteiro#3882\
-Celular:
+Celular: (92)981420113
