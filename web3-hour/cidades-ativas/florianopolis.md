@@ -2,7 +2,7 @@
 
 ### Quando
 
-Toda quarta-feira às 19:30
+Toda quarta-feira às 19:00h
 
 ### Onde
 
