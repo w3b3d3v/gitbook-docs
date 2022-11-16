@@ -102,17 +102,13 @@ Sempre que o montante traduzido soma 100 USDC por tradutor, podemos realizar uma
 Todos os históricos de transações realizados estão disponíveis para visualização.\
 [Clique aqui para acessar o Histórico de transações do Pod de Tradução.](https://gnosis-safe.io/app/matic:0x5bdC8B5576757fA60D0cD9D47bAF211417B8a20f/transactions/history)
 
-### Glossário para Traduções
-
-{% embed url="https://docs.google.com/document/d/1UIhJRUP8trUrNoOkuNPUZyQFOxjL-BS_MGwY2bpJb2U/edit" %}
-
 ### Tutorial para publicação dos artigos traduzidos
 
 {% embed url="https://www.web3dev.com.br/lorenzobattistela/como-fazer-uma-publicacao-na-web3dev-1gdp" %}
 
 ### Inscrição para o Time de Tradutores
 
-Se você deseja se inscrever para o time de tradutores: [clique aqui e preencha o formulário de inscrição.](https://docs.google.com/forms/d/e/1FAIpQLSd5k719FWqzMGPx8DZSy4I5U6FEcRzN7l9--x1cq6hYnFJ8gQ/viewform)&#x20;
+Se você deseja se inscrever para a lista de espera do time de tradutores: [clique aqui e preencha o formulário de inscrição.](https://docs.google.com/forms/d/e/1FAIpQLSd5k719FWqzMGPx8DZSy4I5U6FEcRzN7l9--x1cq6hYnFJ8gQ/viewform)&#x20;
 
 Haverá um pequeno cadastro e um quick test. Assim que suas respostas forem avaliadas, os líderes do Pod entrarão em contato para melhor lhe instruir.
 
