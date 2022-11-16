@@ -82,15 +82,19 @@ Criar conteúdos de valor para toda a comunidade web3dev, abastecendo constantem
 * Gerar Relatórios periódicos;
 * Prestar contas dos resultados para os Conselheiros & Comunidade;
 
-### Metas
-
-#### Meta para o 1º Trimestre (Abril à Julho):
+### Metas Q2 2022
 
 Criar 80 vídeos para o canal do Youtube
 
 Criar 25 artigos autorais para a plataforma da web3dev
 
 Criar 250 artes gráficas, sendo 10 delas animadas, para os canais do Instagram e Twitter
+
+### Metas Q3 2022
+
+
+
+### Metas Q4 2022
 
 ### &#x20;[Relatórios mensais do engajamento em redes sociais](https://www.canva.com/design/DAFKX8G0UrU/WQGKV8eDmgUrkQpDybybLg/view?website#2)
 
