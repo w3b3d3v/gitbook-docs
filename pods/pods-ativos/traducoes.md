@@ -10,17 +10,9 @@ description: O Pod de Traduções iniciou suas atividades em Novembro de 2021.
 
 @fatimalima#3101
 
-### Suporte
-
-@Rômulo#2993&#x20;
-
-### Tradutores (18)
+### Tradutores (15)
 
 @fatimalima#3101
-
-@lorenzo#7506
-
-@falico#8773
 
 @Dimi#6710
 
@@ -29,8 +21,6 @@ description: O Pod de Traduções iniciou suas atividades em Novembro de 2021.
 @Fernando.#3820
 
 @araujo6\_6#6244
-
-@faam#3589
 
 @DiogoJ#2058
 
@@ -76,23 +66,28 @@ Identificar os melhores conteúdos da língua inglesa que podem beneficiar toda 
 * Gerar relatórios periódicos;
 * Prestar contas dos resultados para os Conselheiros & Comunidade;
 
-### Metas
+### Metas Q1 2022
 
-Meta para o 1° trimestre (Janeiro à Março 2022): Traduzir 50 artigos. <mark style="color:green;">**\[100% ATINGIDA]**</mark>
+* Traduzir 50 artigos. <mark style="color:green;">**\[100% ATINGIDA]**</mark>
+* Traduzir 4 bootcamp. <mark style="color:green;">**\[100% ATINGIDA]**</mark>
 
-Meta para o 1° trimestre (Janeiro à Março 2022): Traduzir **4** bootcamp. <mark style="color:green;">**\[100% ATINGIDA]**</mark>
+### Metas Q2 2022
 
-Meta para o 2° trimestre (Abril à Junho 2022): Traduzir mais de 200 artigos. <mark style="color:orange;">**\[86% ATINGIDA]**</mark>
+* Traduzir mais de 200 artigos. <mark style="color:orange;">**\[86% ATINGIDA]**</mark>
 
-Meta para o 3° trimestre (Julho à Setembro 2022): Traduzir aproximadamente 150 artigos.&#x20;
+### Metas Q3 2022
 
-Meta para o 3° trimestre (Julho à Setembro 2022): Traduzir <mark style="color:blue;"></mark> 3 bootcamp.
+* Traduzir <mark style="color:blue;"></mark> 3 bootcamp. <mark style="color:green;">**\[100% ATINGIDA]**</mark>
+* Traduzir aproximadamente 150 artigos. <mark style="color:green;">**\[100% ATINGIDA]**</mark>
 
-Meta para cada mês: Traduzir aproximadamente 80.000 palavras
+### Metas Q4 2022
+
+* Traduzir 1 bootcamp - Solana Pay <mark style="color:green;">**\[100% ATINGIDA]**</mark>
+* Traduzir 200 artigos.
 
 ### Orçamento
 
-Atualmente o budget do mês é U$2.000,00 por período, a vigorar a partir de Julho/2022.\
+Atualmente o budget do mês é U$2.500,00 por período, a vigorar a partir de Setembro/2022.\
 Ocasionalmente o Pod tem um budget adicional oferecido pelos Grants da Comunidade.
 
 ### Pagamentos
@@ -101,7 +96,7 @@ Utilizamos uma Wallet multisign para realizar todos nossos pagamentos.\
 O endereço da Wallet é: 0x5bdC8B5576757fA60D0cD9D47bAF211417B8a20f
 
 O pagamentos são realizados entre o dia 5 a 10 de cada mês.\
-Remuneramos o equivalente a 0,12 centavos de real por palavra traduzida.\
+Remuneramos o equivalente a 0,0231 USDC por palavra traduzida.\
 Sempre que o montante traduzido soma 100 USDC por tradutor, podemos realizar uma transação de pagamento.\
 \
 Todos os históricos de transações realizados estão disponíveis para visualização.\
