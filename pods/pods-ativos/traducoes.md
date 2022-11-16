@@ -12,35 +12,21 @@ description: O Pod de Traduções iniciou suas atividades em Novembro de 2021.
 
 ### Tradutores (15)
 
-@fatimalima#3101
-
-@Dimi#6710
-
-@AI engineer13#6477
-
-@Fernando.#3820
-
-@araujo6\_6#6244
-
-@DiogoJ#2058
-
-@Ojedai85#0461
-
-@Arnaldo Campos#2281
-
-@Felipe Gueller#0964
-
-@brisa.isabela#7590
-
-@bananalabs#4735
-
-@Panegali#1708
-
+@AI engineer13#6477\
+@araujo6\_6#6244\
+@Arnaldo Campos#2281\
+@bananalabs#4735\
+@BePerelló#2959\
+@brisa.isabela#7590\
+@Dimi#6710\
+@DiogoJ#2058\
+@fatimalima#3101\
+@Felipe Gueller#0964\
+@Fernando.#3820\
+@Jhon#0768\
+@Ojedai85#0461\
+@Panegali#1708\
 @paulogio#8134
-
-@BePerelló#2959
-
-@Jhon#0768
 
 ### Objetivo Único
 
