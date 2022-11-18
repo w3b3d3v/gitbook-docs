@@ -12,12 +12,19 @@ description: O Pod Growth iniciou suas atividades em Março de 2022.
 
 ### **Time Growth**
 
-@Anna Bida#8092 - Suporte\
-@Eline#9745 - Estratégia Linkedin\
-@Felipe César#7074 - Copywriter\
-@JowJow#6745 - Copywriter\
-@yloc#1550 - Designer\
+@Anna Bida#8092 - Suporte
+
+@Eline#9745 - Estratégia Linkedin
+
+@Felipe César#7074 - Copywriter
+
+@JowJow#6745 - Copywriter
+
+@yloc#1550 - Designer
+
 @Zòccoli#9960 - Designer
+
+
 
 ### **Objetivo Único**
 
@@ -47,7 +54,7 @@ Posicionar a Comunidade web3dev como a primeira e maior referência na América 
 
 
 
-    ### Meta Junho à Agosto 2022
+    ### <mark style="color:purple;">Meta Junho à Agosto 2022</mark>
 
     O Pod Growth pretende expandir o tamanho da comunidade web3dev no período de Junho à Agosto 2022, baseando-se no seguinte histórico de crescimento inicial:\
     Membros Janeiro/22: 190\
