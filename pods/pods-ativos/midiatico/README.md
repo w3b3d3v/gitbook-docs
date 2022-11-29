@@ -84,9 +84,9 @@ Criar conteúdos de valor para toda a comunidade web3dev, abastecendo constantem
 
 ### Metas Q2 2022
 
-Criar 80 vídeos para o canal do Youtube
+Criar 80 vídeos para o canal do Youtube - <mark style="color:orange;">**parcial  (29) - 36%**</mark>
 
-Criar 130 artes gráficas, sendo 10 delas animadas, para os canais do Instagram e Twitter
+Criar 130 artes gráficas, sendo 10 delas animadas, para os canais do Instagram e Twitter - <mark style="color:orange;">**parcial  (27) - 20,7%**</mark>
 
 ### Metas Q3 2022
 
