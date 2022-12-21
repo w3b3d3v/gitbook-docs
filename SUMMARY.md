@@ -29,6 +29,7 @@
   * [🌀・Comunidade](pods/pods-ativos/comunidade.md)
   * [🎓・Learn2Earn](pods/pods-ativos/learn2earn.md)
   * [🌎・Expansão Global](pods/pods-ativos/expansao-global.md)
+  * [🧪 Lab](pods/pods-ativos/lab.md)
 
 ## Web3 Hour
 

@@ -1,5 +1,5 @@
 ---
-description: Pod iniciou as atividades em Setembro 2022
+description: Pod iniciou as atividades em Setembro de 2022
 ---
 
 # 🌎・Expansão Global
