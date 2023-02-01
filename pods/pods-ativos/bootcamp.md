@@ -20,7 +20,7 @@ Formar o maior número de pessoas nos bootcamps de web3 através de uma platafor
 * Manter a plataforma funcionando 24/7
 * Criar mecanismos de recompensa em NFT para as pessoas que completarem os bootcamps
 * Criar novos conteúdos e projetos para serem adicionados à plataforma
-* Trabalhar em conjunto com o [Pod de Traduções](traducoes/) para traduzir bootcamps existentes em Inglês
+* Trabalhar em conjunto com o [Pod de Traduções](traducoes.md) para traduzir bootcamps existentes em Inglês
 * Trabalhar em conjunto com o [Pod de Growth](growth.md) para alcançar o máximo de pessoas
 * Fazer parcerias com eventos / escolas para bootcamps "customizados"
 * Rodar os momentos síncronos dos bootcamps (_kickoffs)_
