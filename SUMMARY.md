@@ -25,6 +25,7 @@
     * [2022](pods/pods-ativos/traducoes/2022.md)
   * [😎・Midiático](pods/pods-ativos/midiatico/README.md)
     * [Template para criação de Vídeos](pods/pods-ativos/midiatico/template-para-criacao-de-videos.md)
+    * [2022](pods/pods-ativos/midiatico/2022.md)
   * [📈・Growth](pods/pods-ativos/growth.md)
   * [🎓・Bootcamp](pods/pods-ativos/bootcamp.md)
   * [🌀・Comunidade](pods/pods-ativos/comunidade.md)
