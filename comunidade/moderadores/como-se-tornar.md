@@ -1,6 +1,6 @@
 # Como se tornar
 
-Se você tem interesse em se tornar moderador da comunidade, fale com a equipe através do canal **#fale-com-a-equipe** dentro do Discord.
+Se você tem interesse em se tornar moderador da comunidade, fale com a equipe através do canal **#fale-conosco** dentro do Discord.
 
 Diga que deseja ser moderador e responda as seguintes as perguntas:
 
