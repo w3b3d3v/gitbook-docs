@@ -34,7 +34,7 @@ Proporcionar a melhor experiência de educação e mais acessível em web3 para 
 
 Todas as 3a. feiras 11 horas no Discord (Sala de Reunião dos Pods).\
 \
-Para maiores informações acesse o canal [#pod-educação](https://discord.gg/sR8AjGrqre) na comunidade.
+Para maiores informações acesse o canal [#pod-educação](https://discord.gg/sR8AjGrqre) no servidor da web3dev.
 
 ## Orçamento
 

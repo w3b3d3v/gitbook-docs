@@ -1,8 +1,12 @@
 ---
-description: Pod iniciou as atividades em Outubro de 2022
+description: labs@web3dev.com.br
 ---
 
-# 🧪 Lab
+# 🧪 Labs
+
+### Objetivo Único
+
+Evoluir as plataformas da web3dev e consequentemente ser um ambiente propício para o desenvolvimento dos devs envolvidos
 
 ### Líderes
 
@@ -10,17 +14,21 @@ description: Pod iniciou as atividades em Outubro de 2022
 
 @FLz#1649 - Fagner Z | W3D
 
-### Objetivo Único
+## **OKRs relacionadas**
 
-Criar um ambiente de desenvolvimento de soluções de Web3, que possibilite aos estudantes e desenvolvedores estarem em contato com projetos reais, que contribuam para a melhoria da infraestrutura da comunidade e para o desenvolvimento de produtos e soluções que possam atrair investimentos e parcerias para W3D.
+### **Diretamente**
 
-### **Responsabilidades**
+* 20% do total de membros do discord de average communicators por 3 meses consecutivos
+* 30% do total de membros do discord de average visitors por 3 meses consecutivos
 
-* Trabalhar em conjunto com todos os PODs buscando soluções de tecnologia para o desenvolvimento da comunidade
-* Criar um ambiente para atrair membros que queiram aplicar o conhecimento técnico em projetos reais
-* Melhorar a qualidade, organização e rapidez com que a infraestrutura da comunidade é desenvolvida, através de soluções de tecnologia.
-* Transformar o conhecimento da comunidade em soluções de tecnologia (Web3)
-* Prezar pelo desenvolvimento de soluções que melhorem a autonomia e organização da comunidade.
-* Desenvolver soluções de Web3 de parceiros e/ou soluções que possam atrair novas parcerias e investimentos
+### **Indiretamente**
 
-\
+* Ter 350 builders ativos e comprometidos trabalhando conosco remunerados
+* Ter 500 builders ativos e comprometidos trabalhando conosco (total)
+* Conhecer a nossa comunidade e ter uma base de dados de 100k devs (quente)
+* Ter 70 devs alocados em projetos (Team) - lugar propício para encontrar devs que queiram trabalhar conosco
+* Trazer $3MM em receita - potencialmente
+
+## Histórico do Pod
+
+{% embed url="https://docs.google.com/document/d/1HqnkDdl4vGRuxeibmdVxGVtIUhu4c8wmC0npzw4s82g/edit?usp=sharing" %}

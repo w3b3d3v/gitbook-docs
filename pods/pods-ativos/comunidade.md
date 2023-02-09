@@ -1,8 +1,12 @@
 ---
-description: O Pod Comunidade iniciou suas atividades em Abril de 2022.
+description: comunidade@web3dev.com.br
 ---
 
 # 🌀・Comunidade
+
+## Objetivo Único
+
+Proporcionar um ambiente engajado e um contexto ideal para os membros que querem desenvolver sua carreira em web3 e se relacionar com outros devs
 
 ### Líderes
 
@@ -10,60 +14,51 @@ description: O Pod Comunidade iniciou suas atividades em Abril de 2022.
 
 @ViniBlack#6627
 
-### Objetivo Único
+## **OKRs relacionadas**
 
-Criar o melhor ambiente para o desenvolvimento dos membros dentro da Comunidade, através da moderação no canal do Discord, na construção de relacionamento com todos os participantes, na busca de engajamento e na colaboração seja em eventos, estudos, suporte e divulgação.
+### **Diretamente**
 
-### Responsabilidades
+* 30% do total de membros do discord de average visitors por 3 meses consecutivos
+* 20% do total de membros do discord de average communicators por 3 meses consecutivos
+* 25.000 inscrições totais nas iniciativas educacionais
+* 1750 graduados nas iniciativas educacionais (7%) - monitoria
 
-* Definir e monitorar metas, assim como as respectivas recompensas para tais;
-* Identificar e Selecionar pessoas potenciais para moderar o canal do Dicord (definir critério/criar processo seletivo/divulgar vagas/dar acesso ao quadro do trello/atribuir cargo);
-* Receber, avaliar e implementar as sugestões que podem beneficiar a todos da comunidade web3dev;
-* Gerir as atividades identificadas para implementação e manutenção dos processos da comunidade, por exemplo: Calls de Onboarding - Gestão realizada no quadro Trello.
-* Manter atualizado o Trello de gestão (data de conclusão das atividades/status atual/checklists/anexos/membros e outros)
-* Monitorar os canais do Discord;
-* Responder as dúvidas dos membros;
-* Interagir com os assuntos em desenvolvimento e restringir ações inapropriadas que não respeitam o [Código de Conduta da Comunidade web3dev](../../termos/codigo-de-conduta.md).
-* Analisar a interação de cada canal para limpar os canais ociosos e gerar boas experiências nos canais mais ativos;
-* Publicar novidades, avisos e manter o calendário atualizado;
-* Promover reuniões com os moderadores, líderes de pod e com os novos membros para onboarding;
-* Otimizar o processo sempre que necessário;
-* Gerar relatórios periódicos apresentando as ações implementadas e uma síntese dos principais problemas solucionados, bem como listar pontos a melhorar;
-* Prestar contas dos resultados para os Conselheiros & Comunidade
+### Indiretamente
 
-### Metas
+* 100.000 membros no discord (somando todos)
+* Conhecer a nossa comunidade e ter uma base de dados de 100k devs (quente)
+* Ter 500 builders ativos e engajado
 
-#### Meta para o 1° trimestre (Abril à Junho)
+## Reuniões
 
-Metas Abril:&#x20;
+Todas as 2a. feiras 8:30 horas no Discord (Sala de Reunião dos Pods).\
+\
+Para maiores informações acesse o canal [#pod-comunidade](https://discord.gg/au7mgYXpPb) no servidor da web3dev.
 
-* Manter ativo os encontros do Grupos de Estudo;
-* Implementar Calls semanais de Onboarding;
-* Aumentar o índice de verificações de membros na comunidade;
-* Gerar engajamento nos Lançamentos do Novo Branding e do Bootcamp;
+## Orçamento
 
-Metas Maio:
+Atualmente o budget mensal é U$200,00 a vigorar a partir de Fevereiro/2023.
 
-* Implementar Calls de Notícias da Web3dev;
-* Implementar e manter atualizado o Calendário da Comunidade no respectivo canal;
-* Aumentar o número de Web3nars realizados;
-* Limpar canais ociosos e criar textos instrutivos a ser fixado em cada canal;
+### Pagamentos
 
-Metas Junho:
+Utilizamos uma Wallet multisign para realizar todos nossos pagamentos.\
+Endereço da Wallet: 0xe76d833C06B3De58D1475e919c2c04db52a5AB1B
 
-* Prospectar e adicionar membros monitores dos Bootcamps;
-* Ter mais de 30 pessoas acolhidas nas Calls de Onboarding;
+O pagamentos são realizados entre o dia 10 a 15 de cada mês.\
+Remuneramos o equivalente a liderança realizada pelos membros.\
+\
+Todos os históricos de transações realizados estão disponíveis para visualização.\
+[Clique aqui para acessar o Histórico de transações do Pod de Comunidade.](https://app.safe.global/matic:0xe76d833C06B3De58D1475e919c2c04db52a5AB1B/transactions/history)
 
-Metas Julho:
+### Controle & Relatórios
 
-* Prospectar e adicionar novos membros no Pod Comunidade;
-* Ter mais de 30 pessoas acolhidas nas Calls de Onboarding;
+O controle do fluxo de trabalho do Time Comunidade assim como o status de cada conteúdo é realizado via [Clickup](https://app.clickup.com/31088761/v/s/55014871).
 
-Metas Agosto:
+Temos também a gestão desse mesmo processo [no documento em anexo](https://docs.google.com/spreadsheets/d/1HjaMT1NxYTTxyloq31EIuS1W\_2QiGqaMu4mxbUOABS4/edit#gid=258550362) a fim de gerar relatórios, avaliar indicadores, apresentar os resultados de cada período, e monitorar as metas traçadas para o POD.
 
-* Novo grupo de estudos de JavaScript
-* Novo grupo de estudos de English Talk
-* Realização de Corujões de Programação
+## Histórico do Pod
+
+{% embed url="https://docs.google.com/document/d/1podnYuMYESLEZlkR-Q_lHWnB2Q5ipWX09dIAEepDuuc/edit?usp=sharing" %}
 
 
 

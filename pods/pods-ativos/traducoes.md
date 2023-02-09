@@ -48,11 +48,11 @@ Tornar a web3dev a maior referência em lingua portuguesa (ou não inglesa) de c
 
 Todas as 4a. feiras 15 horas no Discord (Sala de Reunião dos Pods).\
 \
-Para maiores informações acesse o canal [#pod-tradução](https://discord.gg/Gp9Ha4DQQJ) na comunidade.
+Para maiores informações acesse o canal [#pod-tradução](https://discord.gg/Gp9Ha4DQQJ) no servidor da web3dev.
 
 ## Orçamento
 
-Atualmente o budget do mês é U$3.000 por período, a vigorar a partir de Janeiro/2023.
+Atualmente o budget mensal é U$3.000,00 a vigorar a partir de Janeiro/2023.
 
 ### Pagamentos
 
@@ -63,8 +63,7 @@ O pagamentos são realizados entre o dia 5 a 10 de cada mês.\
 Remuneramos o equivalente a 0,0231 USDC por palavra traduzida.\
 Sempre que o montante traduzido soma 100 USDC por tradutor, podemos realizar uma transação de pagamento.\
 \
-Todos os históricos de transações realizados estão disponíveis para visualização.\
-[Clique aqui para acessar o Histórico de transações do Pod de Tradução.](https://gnosis-safe.io/app/matic:0x5bdC8B5576757fA60D0cD9D47bAF211417B8a20f/transactions/history)
+Todos os históricos de transações realizados estão disponíveis para vi[ Tradução.](https://gnosis-safe.io/app/matic:0x5bdC8B5576757fA60D0cD9D47bAF211417B8a20f/transactions/history)
 
 ## Inscrição para o Time de Tradutores
 

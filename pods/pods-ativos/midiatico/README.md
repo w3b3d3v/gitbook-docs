@@ -1,5 +1,5 @@
 ---
-description: O Pod Midiático iniciou suas atividades em Março de 2022.
+description: midiatico@web3dev.com.br
 ---
 
 # 😎・Midiático
@@ -14,11 +14,11 @@ Guilherme Boaventura#7668
 
 @Brncrysis Sheep#9527
 
-### Membros do Time
+### Membros do Time (21)
 
 | Membro                    | Função                |
 | ------------------------- | --------------------- |
-| allineo#6159              | Criador de vídeos     |
+| allineo#6159              | Criadora de vídeos    |
 | Anna Bida#8092            | Suporte               |
 | cyrino#7937               | Criador de vídeos     |
 | danicuki#5520             | Criador de vídeos     |
@@ -28,8 +28,10 @@ Guilherme Boaventura#7668
 | Galaksio#8945             | Editor + Social media |
 | Guilherme Boaventura#7668 | Criador de vídeos     |
 | Jhon#0768                 | Criador de vídeos     |
-| laisevieira#9333          | Criador de vídeos     |
+| laisevieira#9333          | Criadora de vídeos    |
+| LilSugarPie#7629          | Criadora de vídeos    |
 | Miorim#5565               | Criador de vídeos     |
+| @paulogio#8134            | Criador de vídeos     |
 | renaodigital.eth#2236     | Copywriter            |
 | Script#6070               | Criador de vídeos     |
 | Talles - Frxls#3525       | Criador de vídeos     |
@@ -42,13 +44,12 @@ Guilherme Boaventura#7668
 
 ### Diretamente
 
-*
-  * Trazer $3MM em receita - conteúdo para os grants
-  * Ter 350 builders ativos e comprometidos trabalhando conosco remunerados (POD Media e POD Tradução)
-  * 30% do total de membros do discord de average visitors por 3 meses consecutivos
-  * 20% do total de membros do discord de average communicators por 3 meses consecutivos
-  * Ter 500 builders ativos e comprometidos trabalhando conosco (total) - escritores voluntários
-  * 100.000 membros no discord (somando todos) - CTA direto
+* Trazer $3MM em receita - conteúdo para os grants
+* Ter 350 builders ativos e comprometidos trabalhando conosco remunerados (POD Media e POD Tradução)
+* 30% do total de membros do discord de average visitors por 3 meses consecutivos
+* 20% do total de membros do discord de average communicators por 3 meses consecutivos
+* Ter 500 builders ativos e comprometidos trabalhando conosco (total) - escritores voluntários
+* 100.000 membros no discord (somando todos) - CTA direto
 
 ### Indiretamente
 
@@ -60,11 +61,11 @@ Guilherme Boaventura#7668
 
 Todas as 2a. feiras 19:30 horas no Discord (Sala de Reunião dos Pods).\
 \
-Para maiores informações acesse o canal [#pod-midiático](https://discord.gg/tGYHf9P67t) na comunidade.
+Para maiores informações acesse o canal [#pod-midiático](https://discord.gg/tGYHf9P67t) no servidor da web3dev.
 
 ## Orçamento&#x20;
 
-Atualmente o budget mensal é U$1.500,00
+Atualmente o budget mensal é U$1.500,00.
 
 ### Pagamentos
 
