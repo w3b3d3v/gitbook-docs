@@ -21,16 +21,15 @@
 
 * [Introdução](pods/introducao.md)
 * [PODs Ativos](pods/pods-ativos/README.md)
-  * [🌐・Traduções](pods/pods-ativos/traducoes.md)
+  * [🌀・Comunidade](pods/pods-ativos/comunidade.md)
+  * [🎓・Educação](pods/pods-ativos/bootcamp.md)
+  * [🌎・Expansão Global](pods/pods-ativos/expansao-global.md)
+  * [📈・Growth](pods/pods-ativos/growth.md)
+  * [🧪 Labs](pods/pods-ativos/labs.md)
+  * [🎓・Learn2Earn](pods/pods-ativos/learn2earn.md)
   * [😎・Midiático](pods/pods-ativos/midiatico/README.md)
     * [Template para criação de Vídeos](pods/pods-ativos/midiatico/template-para-criacao-de-videos.md)
-    * [2022](pods/pods-ativos/midiatico/2022.md)
-  * [📈・Growth](pods/pods-ativos/growth.md)
-  * [🎓・Bootcamp](pods/pods-ativos/bootcamp.md)
-  * [🌀・Comunidade](pods/pods-ativos/comunidade.md)
-  * [🎓・Learn2Earn](pods/pods-ativos/learn2earn.md)
-  * [🌎・Expansão Global](pods/pods-ativos/expansao-global.md)
-  * [🧪 Lab](pods/pods-ativos/lab.md)
+  * [🌐・Tradução](pods/pods-ativos/traducoes.md)
 
 ## Web3 Hour
 

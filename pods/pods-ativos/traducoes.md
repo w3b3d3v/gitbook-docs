@@ -1,8 +1,8 @@
 ---
-description: O Pod de Traduções iniciou suas atividades em Novembro de 2021.
+description: traducao@web3dev.com.br
 ---
 
-# 🌐・Traduções
+# 🌐・Tradução
 
 ## Objetivo Único
 
@@ -43,6 +43,12 @@ Tornar a web3dev a maior referência em lingua portuguesa (ou não inglesa) de c
 * 30% do total de membros do discord de average visitors por 3 meses consecutivos
 * Ter 500 builders ativos e comprometidos trabalhando conosco (total)
 * Ter 350 builders ativos e comprometidos trabalhando conosco remunerados (POD Media e POD Tradução)
+
+## Reuniões
+
+Todas as 4a. feiras 15 horas no Discord (Sala de Reunião dos Pods).\
+\
+Para maiores informações acesse o canal [#pod-tradução](https://discord.gg/Gp9Ha4DQQJ) na comunidade.
 
 ## Orçamento
 
