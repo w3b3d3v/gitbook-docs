@@ -44,18 +44,18 @@ Guilherme Boaventura#7668
 
 ### Diretamente
 
-* Trazer $3MM em receita - conteúdo para os grants
-* Ter 350 builders ativos e comprometidos trabalhando conosco remunerados (POD Media e POD Tradução)
+* 100.000 membros no discord (somando todos) - <mark style="color:blue;">CTA direto no youtube</mark>
 * 15% do total de membros do discord de average visitors semanais
 * 25% do total de visitors do discord que sejam average communicators por semana
-* Ter 500 builders ativos e comprometidos trabalhando conosco (total) - escritores voluntários
-* 100.000 membros no discord (somando todos) - CTA direto
+* Trazer $3MM em receita - <mark style="color:blue;">vídeos para os grants</mark>
+* Ter 350 builders ativos e comprometidos trabalhando conosco remunerados
+* Ter 500 builders ativos e comprometidos trabalhando conosco
 
 ### Indiretamente
 
-* 25.000 inscrições totais nas iniciativas educacionais - CTA direto
-* Conhecer a nossa comunidade e ter uma base de dados de 100k devs (quente) - CTA direto
-* 1750 graduados nas iniciativas educacionais (7%) - CTA direto
+* 25.000 inscrições totais nas iniciativas educacionais - <mark style="color:blue;">vídeos para campanhas</mark>&#x20;
+* 1750 graduados nas iniciativas educacionais (7%) - <mark style="color:blue;">vídeos para campanhas</mark>&#x20;
+* Conhecer a nossa comunidade e ter uma base de dados de 100k devs
 
 ## Reuniões
 

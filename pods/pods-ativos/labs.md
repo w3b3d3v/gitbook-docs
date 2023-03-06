@@ -24,10 +24,10 @@ Evoluir as plataformas da web3dev e consequentemente ser um ambiente propício p
 ### **Indiretamente**
 
 * Ter 350 builders ativos e comprometidos trabalhando conosco remunerados
-* Ter 500 builders ativos e comprometidos trabalhando conosco (total)
-* Conhecer a nossa comunidade e ter uma base de dados de 100k devs (quente)
-* Ter 70 devs alocados em projetos (Team) - lugar propício para encontrar devs que queiram trabalhar conosco
-* Trazer $3MM em receita - potencialmente
+* Ter 500 builders ativos e comprometidos trabalhando conosco
+* Conhecer a nossa comunidade e ter uma base de dados de 100k devs
+* Ter 70 devs alocados em projetos (Team) <mark style="color:blue;">- lugar propício para encontrar devs que queiram trabalhar conosco</mark>
+* Trazer $3MM em receita <mark style="color:blue;">- potencialmente</mark>
 
 ## Histórico do Pod
 

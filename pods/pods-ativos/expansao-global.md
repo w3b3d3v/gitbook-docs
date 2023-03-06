@@ -27,14 +27,14 @@ Fazer a Web3dev ser conhecida em outros idiomas além da língua portuguesa
 * 100.000 membros no discord (somando todos)
 * 15% do total de membros do discord de average visitors semanais
 * 25% do total de visitors do discord que sejam average communicators por semana
-* Ter 500 builders ativos e comprometidos trabalhando conosco (total)
-* 25.000 inscrições totais nas iniciativas educacionais - melk token no discord em espanhol
-* 1750 graduados nas iniciativas educacionais (7%) - melk token no discord em espanhol
+* Ter 500 builders ativos e comprometidos trabalhando conosco
+* 25.000 inscrições totais nas iniciativas educacionais <mark style="color:blue;">- melk token no discord em espanhol</mark>
+* 1750 graduados nas iniciativas educacionais (7%) <mark style="color:blue;">- melk token no discord em espanhol</mark>
 
 ### **Indiretamente**
 
-* no caso de alocarmos/gerenciarmos devs que não falam língua portuguesa
-  * Conhecer a nossa comunidade e ter uma base de dados de 100k devs (quente)
+* No caso de alocarmos/gerenciarmos devs que não falam língua portuguesa:
+  * Conhecer a nossa comunidade e ter uma base de dados de 100k devs
   * Ter 70 devs alocados em projetos (Team)
   * Trazer $3MM em receita - Team e Grants de artigos
 

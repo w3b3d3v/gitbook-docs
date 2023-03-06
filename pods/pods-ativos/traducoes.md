@@ -33,16 +33,16 @@ Tornar a web3dev a maior referência em lingua portuguesa (ou não inglesa) de c
 
 ### Diretamente
 
-* 100.000 membros no discord (somando todos) - CTA dos artigos
-* Trazer $3MM em receita - artigos de grants
+* 100.000 membros no discord (somando todos) <mark style="color:blue;">-</mark> <mark style="color:blue;">CTA dos artigos</mark>
+* Trazer $3MM em receita <mark style="color:blue;">-</mark> <mark style="color:blue;">artigos de grants</mark>
 
 ### Indiretamente
 
-* 25.000 inscrições totais nas iniciativas educacionais
-* Conhecer a nossa comunidade e ter uma base de dados de 100k devs (quente)
+* 25.000 inscrições totais nas iniciativas educacionais <mark style="color:blue;">-</mark> <mark style="color:blue;">banner do site</mark>
+* Conhecer a nossa comunidade e ter uma base de dados de 100k devs
 * 15% do total de membros do discord de average visitors semanais
-* Ter 500 builders ativos e comprometidos trabalhando conosco (total)
-* Ter 350 builders ativos e comprometidos trabalhando conosco remunerados (POD Media e POD Tradução)
+* Ter 350 builders ativos e comprometidos trabalhando conosco remunerados&#x20;
+* Ter 500 builders ativos e comprometidos trabalhando conosco
 
 ## Reuniões
 

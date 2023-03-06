@@ -28,18 +28,18 @@ Posicionar a web3dev como a maior referência (consolidação da marca) de comun
 ### **Diretamente**
 
 * 100.000 membros no discord (somando todos)
-* Ter 350 builders ativos e comprometidos trabalhando conosco remunerados
-* Ter 500 builders ativos e comprometidos trabalhando conosco (total)
 * 25.000 inscrições totais nas iniciativas educacionais
 * 1750 graduados nas iniciativas educacionais (7%)
+* Ter 500 builders ativos e comprometidos trabalhando conosco
+* Ter 350 builders ativos e comprometidos trabalhando conosco remunerados
 
 ### **Indiretamente**
 
-* Ter 70 devs alocados em projetos (Team)
 * Trazer $3MM em receita
+* Ter 70 devs alocados em projetos (Team)
 * 15% do total de membros do discord de average visitors semanais
 * 25% do total de visitors do discord que sejam average communicators por semana
-* Conhecer a nossa comunidade e ter uma base de dados de 100k devs (quente)
+* Conhecer a nossa comunidade e ter uma base de dados de 100k devs
 
 ## Orçamento
 

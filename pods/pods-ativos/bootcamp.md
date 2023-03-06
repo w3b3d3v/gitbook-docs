@@ -18,19 +18,17 @@ Proporcionar a melhor experiência de educação e mais acessível em web3 para 
 
 ### Diretamente
 
-* 1750 graduados nas iniciativas educacionais (7%)
-* Conhecer a nossa comunidade e ter uma base de dados de 100k devs (quente)
 * 15% do total de membros do discord de average visitors semanais
 * 25% do total de visitors do discord que sejam average communicators por semana
-
-
+* 1750 graduados nas iniciativas educacionais (7%)
+* Conhecer a nossa comunidade e ter uma base de dados de 100k devs
 
 ### Indiretamente
 
 * 100.000 membros no discord (somando todos)
-* Ter 70 devs alocados em projetos (Team) - formar novos devs
+* Ter 70 devs alocados em projetos (Team) <mark style="color:blue;">- contribuir com a formação de novos devs para o mercado</mark>
 * Trazer $3MM em receita
-* Ter 500 builders ativos e comprometidos trabalhando conosco (total) - monitores
+* Ter 500 builders ativos e comprometidos trabalhando conosco (total) <mark style="color:blue;">- monitores</mark>
 
 ## Reuniões
 
