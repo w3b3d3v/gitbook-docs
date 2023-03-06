@@ -40,7 +40,7 @@ Tornar a web3dev a maior referência em lingua portuguesa (ou não inglesa) de c
 
 * 25.000 inscrições totais nas iniciativas educacionais
 * Conhecer a nossa comunidade e ter uma base de dados de 100k devs (quente)
-* 30% do total de membros do discord de average visitors por 3 meses consecutivos
+* 15% do total de membros do discord de average visitors semanais
 * Ter 500 builders ativos e comprometidos trabalhando conosco (total)
 * Ter 350 builders ativos e comprometidos trabalhando conosco remunerados (POD Media e POD Tradução)
 

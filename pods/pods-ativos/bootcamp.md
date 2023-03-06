@@ -20,8 +20,10 @@ Proporcionar a melhor experiência de educação e mais acessível em web3 para 
 
 * 1750 graduados nas iniciativas educacionais (7%)
 * Conhecer a nossa comunidade e ter uma base de dados de 100k devs (quente)
-* 30% do total de membros do discord de average visitors por 3 meses consecutivos
-* 20% do total de membros do discord de average communicators por 3 meses consecutivos
+* 15% do total de membros do discord de average visitors semanais
+* 25% do total de visitors do discord que sejam average communicators por semana
+
+
 
 ### Indiretamente
 

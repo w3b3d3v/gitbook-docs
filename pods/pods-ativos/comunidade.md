@@ -18,8 +18,8 @@ Proporcionar um ambiente engajado e um contexto ideal para os membros que querem
 
 ### **Diretamente**
 
-* 30% do total de membros do discord de average visitors por 3 meses consecutivos
-* 20% do total de membros do discord de average communicators por 3 meses consecutivos
+* 15% do total de membros do discord de average visitors semanais
+* 25% do total de visitors do discord que sejam average communicators por semana
 * 25.000 inscrições totais nas iniciativas educacionais
 * 1750 graduados nas iniciativas educacionais (7%) - monitoria
 

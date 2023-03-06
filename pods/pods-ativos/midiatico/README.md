@@ -46,8 +46,8 @@ Guilherme Boaventura#7668
 
 * Trazer $3MM em receita - conteúdo para os grants
 * Ter 350 builders ativos e comprometidos trabalhando conosco remunerados (POD Media e POD Tradução)
-* 30% do total de membros do discord de average visitors por 3 meses consecutivos
-* 20% do total de membros do discord de average communicators por 3 meses consecutivos
+* 15% do total de membros do discord de average visitors semanais
+* 25% do total de visitors do discord que sejam average communicators por semana
 * Ter 500 builders ativos e comprometidos trabalhando conosco (total) - escritores voluntários
 * 100.000 membros no discord (somando todos) - CTA direto
 
