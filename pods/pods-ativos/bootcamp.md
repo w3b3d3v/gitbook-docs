@@ -28,7 +28,6 @@ Proporcionar a melhor experiência de educação e mais acessível em web3 para 
 * 100.000 membros no discord (somando todos)
 * Ter 70 devs alocados em projetos (Team) <mark style="color:blue;">- contribuir com a formação de novos devs para o mercado</mark>
 * Trazer $3MM em receita
-* Ter 500 builders ativos e comprometidos trabalhando conosco (total) <mark style="color:blue;">- monitores</mark>
 
 ## Reuniões
 
