@@ -30,6 +30,8 @@
   * [😎・Midiático](pods/pods-ativos/midiatico/README.md)
     * [Template para criação de Vídeos](pods/pods-ativos/midiatico/template-para-criacao-de-videos.md)
   * [🌐・Tradução](pods/pods-ativos/traducoes.md)
+* [Hackathon Pod Labs](pods/hackathon-pod-labs/README.md)
+  * [Edital Geral](pods/hackathon-pod-labs/edital-geral.md)
 
 ## Web3 Hour
 
