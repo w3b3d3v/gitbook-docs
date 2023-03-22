@@ -1,3 +1,7 @@
+---
+description: Hackathon Pod Labs
+---
+
 # Edital dos Temas
 
 ## 📣  Anúncios
@@ -166,7 +170,3 @@ Conheça os canais de atendimento para saber mais sobre o Hackathon Pod Labs: Re
 | ------------------------ | ------------------- | ------------------------------------------------------------ |
 | Discord (canal Pod Labs) | Suporte             | [https://discord.com/E66Bs9Ea](https://discord.com/E66Bs9Ea) |
 | E-mail                   | Sugestões, Críticas | [labs@web3dev.com.br](mailto:labs@web3dev.com.br)            |
-
-### &#x20;
-
-\
