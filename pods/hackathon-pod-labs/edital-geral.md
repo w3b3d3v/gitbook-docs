@@ -26,7 +26,7 @@ Além disso, os vencedores da maior quantidade de modalidades serão convidados 
 | -------------- | ----------------------------------------------------------------------------------------------------------------- |
 | 21-03          | Divulgação do evento através das mídias sociais                                                                   |
 | 22-03          | Divulgação do Edital do Hackathon (este documento) e abertura das inscrições e onboarding da comunidade (discord) |
-| 23-03          | Divulgação do Edital dos Temas e Premiações                                                                       |
+| 24-03          | Divulgação do Edital dos Temas e Premiações                                                                       |
 | 29-03          | Divulgação do Edital de Incubação e reunião de onboarding                                                         |
 | 05-04          | Encerramento das inscrições, início das atividades, reunião de abertura (discord)                                 |
 | 10-04 \~ 21-04 | Suporte individual para cada participante/equipe e andamento do evento                                            |
@@ -74,7 +74,10 @@ Preencha o formulário abaixo e inscreva-se agora mesmo no evento:
 
 Conheça os canais de atendimento para saber mais sobre o Hackathon Pod Labs: Reinventando a Experiência de Aprender
 
-| Canal de Comunicação     | Função              | Informação de contato                                        |
-| ------------------------ | ------------------- | ------------------------------------------------------------ |
-| Discord (canal Pod Labs) | Suporte             | [https://discord.com/E66Bs9Ea](https://discord.com/E66Bs9Ea) |
-| E-mail                   | Sugestões, Críticas | [labs@web3dev.com.br](mailto:labs@web3dev.com.br)            |
+| Canal de Comunicação     | Função                       | Informação de contato                                                                                        |
+| ------------------------ | ---------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Discord (canal Pod Labs) | Suporte                      | [https://discord.com/E66Bs9Ea](https://discord.com/E66Bs9Ea)                                                 |
+| E-mail                   | Sugestões, Críticas          | [labs@web3dev.com.br](mailto:labs@web3dev.com.br)                                                            |
+| Web3Dev                  | Edital Geral                 | [https://web3dev.com.br/edital](https://docs.web3dev.com.br/pods/hackathon-pod-labs/edital-geral)            |
+| Web3Dev                  | Edital dos Temas e Premiação | [https://web3dev.com.br/temas-premios](https://docs.web3dev.com.br/pods/hackathon-pod-labs/edital-dos-temas) |
+| Google                   | Formulário de Inscrição      | [https://web3dev.com.br/hacka-form](https://forms.gle/1ashmV7joe7bApzXA)                                     |

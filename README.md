@@ -4,4 +4,4 @@
 
 ## [Participe da Comunidade no Discord](https://discord.web3dev.com.br/)
 
-## [Inscreva-se nos Builds gratuitamente](https://bootcamp.web3dev.com.br/courses?utm\_source=gotbook.com)
+## [Inscreva-se nos Builds gratuitamente](https://bootcamp.web3dev.com.br/courses?utm\_source=gitbook.com)

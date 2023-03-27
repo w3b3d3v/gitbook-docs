@@ -10,7 +10,9 @@ O Pod Labs está a todo vapor! Estamos anunciando o lançamento dos Temas do Hac
 
 As premiações são projetadas para ajudá-lo a aprimorar suas habilidades ao mesmo tempo que contribui para soluções inovadoras que podem ajudar a transformar o futuro da educação.
 
-Concluindo as tarefas, você não só estará ganhando conhecimento e experiências valiosas, como também concorre a uma premiação de R$2.000,00 dividida entre 8 categorias (8 grants). E fiquem ligados! Porque mais R$5000 (pós-grant) serão investidos em incubação para os vencedores!
+Concluindo as tarefas, você não só estará ganhando conhecimento e experiências valiosas, como também concorre a uma premiação de R$3.000,00 dividida entre 8 categorias (8 grants). E fiquem ligados! Porque mais R$5000 (pós-grant) serão investidos em incubação para os vencedores!
+
+
 
 ## ⛓️ Solidity
 
@@ -117,32 +119,48 @@ Desafio: Desenvolver o design e/ou o front-end para o Marketplace de Atividades 
 
 ## 🏆 Premiações: R$2000 🏆
 
-### UX/UI Design (25% - R$500):
+### UX/UI Design (R$700)
 
-1. Melhor layout geral (R$300) .
-2. Melhores componentes e botões animados (R$120) .
-3. Melhores ícones, paletas, imagens e tipografia (R$80).
+1. Melhor layout geral (R$400).
+2. Melhores componentes e botões animados (R$180).
+3. Melhores ícones, paletas, imagens e tipografia (R$120).
 
-### Front-end (25% - R$500):
+### Front-end (R$1000):
 
-4. Melhor interface do Marketplace (R$500).
+4. Melhor código de front-end do Marketplace de Atividades (R$1000).
 
-### Solidity (js/ts) (50% - R$1000):
+### Solidity (js/ts) (R$1300):
 
-5. Fluxograma do Marketplace de Atividades no Miro (solidity + front) (R$100).
-6. Criar um script para fazer upload de metadados no IPFS (R$50).
-7. Criar um script para que líderes e core team criem as especificações dos metadados (NFTs das atividades) (R$50).
-8. Construção da lógica do contrato e atendimento às funcionalidades propostas (R$800):
+5.  Melhor fluxograma do “Marketplace de Atividades” (R$150).
 
-* Funcionalidade e lógica do contrato.
-* Atendimento às especificações do projeto.
-* Portabilidade com as propostas de front-end.
+    1. Miro ou outra gratuita.
+    2. Deve contar ambos fluxos de solidity e front-end.
+
+
+6.  Melhor script/interface para fazer upload de metadados no IPFS (R$75).
+
+
+7.  Melhor script/interface de criação de especificações de metadados (NFTs das atividades) (R$75).
+
+    1. Facilidade para aplicar as descrições nos NFTs usando IPFS.
+
+
+8. Melhor contrato inteligênte e atendimento às funcionalidades propostas (R$1000):
+   1. Funcionalidade e lógica do contrato.
+   2. Portabilidade com as propostas de front-end.
 
 ### Critérios de desempate:
 
-* Otimizações e segurança do contrato inteligente.
+* Qualidade de código.
+* Histórico de commits bem organizados.
+* Atendimento às especificações do projeto.
+* Segurança do contrato inteligente.
 * Testes bem escritos e abrangentes.
 * Ideias inovadoras funcionais.
+* Otimizações.
+* Técnicas padrão de mercado.
+* Legibilidade de código e gramática.
+* Documentação e referências
 
 ### Considerações:
 
@@ -166,7 +184,10 @@ Desafio: Desenvolver o design e/ou o front-end para o Marketplace de Atividades 
 
 Conheça os canais de atendimento para saber mais sobre o Hackathon Pod Labs: Reinventando a Experiência de Aprender
 
-| Canal de Comunicação     | Função              | Informação de contato                                        |
-| ------------------------ | ------------------- | ------------------------------------------------------------ |
-| Discord (canal Pod Labs) | Suporte             | [https://discord.com/E66Bs9Ea](https://discord.com/E66Bs9Ea) |
-| E-mail                   | Sugestões, Críticas | [labs@web3dev.com.br](mailto:labs@web3dev.com.br)            |
+| Canal de Comunicação     | Função                       | Informação de contato                                                                                        |
+| ------------------------ | ---------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Discord (canal Pod Labs) | Suporte                      | [https://discord.com/E66Bs9Ea](https://discord.com/E66Bs9Ea)                                                 |
+| E-mail                   | Sugestões, Críticas          | [labs@web3dev.com.br](mailto:labs@web3dev.com.br)                                                            |
+| Web3Dev                  | Edital Geral                 | [https://web3dev.com.br/edital](https://docs.web3dev.com.br/pods/hackathon-pod-labs/edital-geral)            |
+| Web3Dev                  | Edital dos Temas e Premiação | [https://web3dev.com.br/temas-premios](https://docs.web3dev.com.br/pods/hackathon-pod-labs/edital-dos-temas) |
+| Google                   | Formulário de Inscrição      | [https://web3dev.com.br/hacka-form](https://forms.gle/1ashmV7joe7bApzXA)                                     |
