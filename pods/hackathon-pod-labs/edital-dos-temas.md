@@ -117,7 +117,7 @@ Desafio: Desenvolver o design e/ou o front-end para o Marketplace de Atividades 
 10. Os vencedores dos grants terão seus projetos em destaque na ‘main’ branch.
 11. CUIDADO PARA NÃO COMMITAR CHAVES PRIVADAS!
 
-## 🏆 Premiações: R$2000 🏆
+## 🏆 Premiações: R$3000 🏆
 
 ### UX/UI Design (R$700)
 
