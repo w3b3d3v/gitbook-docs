@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Manual da Comunidade web3dev](README.md)
+* [Home](README.md)
+* [Manual da Comunidade web3dev](<README (1).md>)
 
 ## Discord
 
