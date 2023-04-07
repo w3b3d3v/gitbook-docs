@@ -28,7 +28,7 @@ Além disso, os vencedores da maior quantidade de modalidades serão convidados 
 | 22-03          | Divulgação do Edital do Hackathon (este documento) e abertura das inscrições e onboarding da comunidade (discord) |
 | 24-03          | Divulgação do Edital dos Temas e Premiações                                                                       |
 | 29-03          | Divulgação do Edital de Incubação e reunião de onboarding                                                         |
-| 05-04          | Encerramento das inscrições, início das atividades, reunião de abertura (discord)                                 |
+| 10-04          | Encerramento das inscrições, início das atividades, reunião de abertura (discord)                                 |
 | 10-04 \~ 21-04 | Suporte individual para cada participante/equipe e andamento do evento                                            |
 | 24-04 \~ 28-04 | Apresentação dos projetos e última semana de entrega                                                              |
 | 03-05          | Divulgação dos resultados e vencedores de cada categoria                                                          |

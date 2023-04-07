@@ -18,5 +18,5 @@ Embora o Web3 Hour tenha nascido na web3dev que é uma comunidade de desenvolved
 
 ### Qual o formato?
 
-Formato de encontro em um bar ou restaurante para beber cerveja ou tomar um café e bater papo livre. Acontece toda semana no mesmo horário e no mesmo local. É muito importante que cada cidade defina um dia da semana, horário e local fixos para que qualquer pessoa que queira participar possa simplesmente aparecer sem precisar ficar checando agenda.
+Formato de encontro em um bar ou restaurante para beber cerveja ou tomar um café e bater papo livre. Acontece toda semana no mesmo horário e no mesmo local. É muito importante que cada cidade define um dia da semana, horário e local fixos para que qualquer pessoa que queira participar possa simplesmente aparecer sem precisar ficar checando agenda.
 

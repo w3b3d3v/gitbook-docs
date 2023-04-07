@@ -12,7 +12,7 @@ Fica a critério dos fundadores definir se vai ser num bar, num restaurante ou n
 
 É importante **não** definir assunto ou pauta para os encontros semanais. A ideia é justamente ficar livre e não dar absolutamente nenhum trabalho de preparação do encontro.
 
-O membros fundadores não precisam ter conhecimento sobre web3 para abrir uma nova cidade.
+Os membros fundadores não precisam ter conhecimento sobre web3 para abrir uma nova cidade.
 
 Tendo definido isso, basta publicar no canal do Discord web3hour no [Discord da web3dev](https://discord.web3dev.com.br) que os gestores da comunidade vão ajudar nos próximos passos.
 
