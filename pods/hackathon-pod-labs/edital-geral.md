@@ -62,14 +62,6 @@ Além disso, os vencedores da maior quantidade de modalidades serão convidados 
 * Se o número de inscritos for acima do esperado, poderá haver alteração na data de início do evento.
 * Os organizadores podem adicionar regras de conduta caso se faça necessário para manter o nível de honestidade, integridade e boa índole entre os participantes.
 
-## <img src="https://lh3.googleusercontent.com/0nfRZOc2e3lSRz_fnXE-k8vN3TQOPKEjihIHUDm4oX1tYMAEAyBmUBVgoeoFneYZEbo4p1c7Iv2gRPcZRxs5B61M7iMGKA1gwLdHtEiVMNOfdfL5_PXDnPDPAVewadoPn6Bqw-4Mq97G3t7iqhLB6Q" alt="" data-size="line">  Formulário
-
-Preencha o formulário abaixo e inscreva-se agora mesmo no evento:
-
-<img src="https://lh3.googleusercontent.com/wpi0VZElXNBWTvIP-FtF10cBqiEIsZOHvRll1_safoY1o4KRMoywYJKmjVihVJ1vsY3F6wWK5GKXJ0dS6ljMvb1hE_IYhsMff6i-82uzcsf5u9WH6lsbsWN85Tam9WE06bnlNdF-hfvH4pNLnQgAAw" alt="" data-size="line"> [Hackathon Pod Labs: Reinventando a Experiência de Aprender](https://forms.gle/1ashmV7joe7bApzXA)
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSe6WUCPgV38WQ9C-tZk-IsMBEnPkSpdi8yTVV9eWb_LSyKRrw/viewform" %}
-
 ## 📩  Contato
 
 Conheça os canais de atendimento para saber mais sobre o Hackathon Pod Labs: Reinventando a Experiência de Aprender
