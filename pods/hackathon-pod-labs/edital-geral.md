@@ -29,10 +29,10 @@ Além disso, os vencedores da maior quantidade de modalidades serão convidados 
 | 24-03          | Divulgação do Edital dos Temas e Premiações                                                                       |
 | 29-03          | Divulgação do Edital de Incubação e reunião de onboarding                                                         |
 | 10-04          | Encerramento das inscrições, início das atividades, reunião de abertura (discord)                                 |
-| 10-04 \~ 21-04 | Suporte individual para cada participante/equipe e andamento do evento                                            |
-| 24-04 \~ 28-04 | Apresentação dos projetos e última semana de entrega                                                              |
-| 03-05          | Divulgação dos resultados e vencedores de cada categoria                                                          |
-| 08-05 \~ 12-05 | Reunião interna com o vencedor geral para seguir com a incubação                                                  |
+| 10-04 \~ 28-04 | Suporte individual para cada participante/equipe e andamento do evento                                            |
+| 02-05 \~ 05-05 | Apresentação dos projetos e última semana de entrega                                                              |
+| 10-05          | Divulgação dos resultados e vencedores de cada categoria                                                          |
+| 10-05 \~ 12-05 | Reunião interna com o vencedor geral para seguir com a incubação                                                  |
 
 ## 📜 Regras e Conduta
 
