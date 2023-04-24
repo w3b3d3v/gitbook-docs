@@ -177,8 +177,8 @@ Desafio: Desenvolver o design e/ou o front-end para o Marketplace de Atividades 
 | Data (2023)    | Agenda                                                   |
 | -------------- | -------------------------------------------------------- |
 | 10-04          | Início das atividades                                    |
-| 24-04 \~ 28-04 | Apresentação dos projetos e última semana de entrega     |
-| 03-05          | Divulgação dos resultados e vencedores de cada categoria |
+| 02-05 \~ 05-05 | Apresentação dos projetos e última semana de entrega     |
+| 10-05          | Divulgação dos resultados e vencedores de cada categoria |
 
 ## 📩  Contato
 
