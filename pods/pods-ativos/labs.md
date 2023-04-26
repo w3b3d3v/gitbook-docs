@@ -12,7 +12,7 @@ Evoluir as plataformas da web3dev e consequentemente ser um ambiente propício p
 
 @Nevix#8888 - Nevix | W3D
 
-@FLz#1649 - Fagner Z | W3D
+@Mitish98#6039
 
 ## **OKRs relacionadas**
 
@@ -28,6 +28,25 @@ Evoluir as plataformas da web3dev e consequentemente ser um ambiente propício p
 * Conhecer a nossa comunidade e ter uma base de dados de 100k devs
 * Ter 70 devs alocados em projetos (Team) <mark style="color:blue;">- lugar propício para encontrar devs que queiram trabalhar conosco</mark>
 * Trazer $3MM em receita <mark style="color:blue;">- potencialmente</mark>
+
+## Orçamento
+
+Atualmente o budget mensal é de U$500,00
+
+### Pagamentos
+
+Utilizamos uma Wallet multisign para realizar todos nossos pagamentos.\
+Endereço da Wallet: 0x7D14530211a296f9E31819beE2bBD4329CA3BB4a
+
+O pagamentos são realizados no 5° dia útil de cada mês.\
+Remuneramos um valor fixo por membro ativo.\
+\
+Todos os históricos de transações realizados estão disponíveis para visualização.\
+[Clique aqui para acessar o Histórico de transações do Pod Labs.](https://app.safe.global/transactions/history?safe=matic:0x7D14530211a296f9E31819beE2bBD4329CA3BB4a)
+
+### Controle & Relatórios
+
+Temos também a gestão do orçamento e pagamentos realizados pelo Pod Labs [no documento em anexo](https://docs.google.com/spreadsheets/d/1cBMfLJwDvpiNxZUejvvY1K\_xIAr-C2jJKBMfu0Mtk5g/edit?usp=sharing) a fim de apresentar as transferências de cada período, e acompanhar a movimentação financeira do Pod.
 
 ## Histórico do Pod
 
