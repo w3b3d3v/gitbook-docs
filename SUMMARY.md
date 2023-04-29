@@ -34,6 +34,7 @@
 * [Hackathon Pod Labs](pods/hackathon-pod-labs/README.md)
   * [Edital Geral](pods/hackathon-pod-labs/edital-geral.md)
   * [Edital dos Temas](pods/hackathon-pod-labs/edital-dos-temas.md)
+  * [Edital de Incubação](pods/hackathon-pod-labs/edital-de-incubacao.md)
 
 ## Web3 Hour
 
