@@ -1,5 +1,5 @@
 ---
-description: Hackathon Pod Labs
+description: 'Hackathon Pod Labs: Reinventando a Experiência de Aprender'
 ---
 
 # Edital dos Temas
