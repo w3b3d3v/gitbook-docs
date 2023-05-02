@@ -29,10 +29,10 @@ Com base nesses critérios, a equipe vencedora receberá os pagamentos de R $5.0
 
 ### CRONOGRAMA
 
-1. Hackathon: 10 a 28 de abril de 2023.
-2. Divulgação do resultado: 03 de Maio de 2023.
-3. Incubação: 08 de Maio de 2023&#x20;
-4. Desfecho: 08 de Janeiro de 2024
+1. Hackathon: 10 de Abril até 05 de Maio de 2023&#x20;
+2. Divulgação do resultado: 10 de Maio de 2023&#x20;
+3. Incubação: 12 de Maio de 2023&#x20;
+4. Desfecho: 12 de Janeiro de 2024
 
 ### PRAZO
 
