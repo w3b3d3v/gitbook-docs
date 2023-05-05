@@ -105,7 +105,7 @@ Desafio: Desenvolver o design e/ou o front-end para o Marketplace de Atividades 
 
 ## 📚 Método de Entrega
 
-1. Cada equipe deve entrar no repositório ‘Hackathon-PodLabs’ dentro do perfil oficial do PodLabs em [https://github.com/w3b3d3v/Hackathon-PodLabs](https://github.com/w3b3d3v/Hackathon-PodLabs)
+1. Cada equipe deve entrar no repositório ‘Hackathon-PodLabs’ dentro do perfil oficial do PodLabs em [https://github.com/devpodlabs/Hackathon-PodLabs](https://github.com/devpodlabs/Hackathon-PodLabs)
 2. Dentro do repositório, a equipe deve entrar na branch chamada ‘#1Hackathon’.
 3. A equipe deverá criar uma pasta com o nome de sua equipe, contendo o projeto funcional e uma cópia do modelo do arquivo README.md que já está nativamente na branch.
 4. A equipe deve commitar seu projeto como um PR (Pull Request) na branch ‘#1Hackathon’.
