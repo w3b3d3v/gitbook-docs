@@ -29,7 +29,7 @@ O objetivo do POD é manter o projeto Experimento Melk.
 
 ## Orçamento
 
-O orçamento para o POD é de $400/mês
+O orçamento para o POD é de $400/mês.
 
 Os custos atuais do projeto são:
 

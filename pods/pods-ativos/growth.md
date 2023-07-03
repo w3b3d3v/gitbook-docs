@@ -43,7 +43,7 @@ Posicionar a web3dev como a maior referência (consolidação da marca) de comun
 
 ## Orçamento
 
-Atualmente o budget mensal é de U$500,00
+Atualmente o budget é de U$500/mês
 
 ### Pagamentos
 

@@ -31,7 +31,7 @@ Evoluir as plataformas da web3dev e consequentemente ser um ambiente propício p
 
 ## Orçamento
 
-Atualmente o budget mensal é de U$500,00
+Atualmente o budget é de U$500/mês.
 
 ### Pagamentos
 

@@ -46,7 +46,7 @@ Para maiores informações acesse o canal [#pod-expansão-global](https://discor
 
 ## Orçamento
 
-Atualmente o budget mensal é U$500,00 a vigorar a partir de Novembro/2022.
+Atualmente o budget é U$100/mês.
 
 ### Pagamentos
 

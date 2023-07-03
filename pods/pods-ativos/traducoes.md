@@ -52,7 +52,7 @@ Para maiores informações acesse o canal [#pod-tradução](https://discord.gg/G
 
 ## Orçamento
 
-Atualmente o budget mensal é U$3.000,00 a vigorar a partir de Janeiro/2023.
+Atualmente o budget mensal é U$3.400,00 a vigorar a partir de Abril/2023.
 
 ### Pagamentos
 
@@ -60,7 +60,7 @@ Utilizamos uma Wallet multisign para realizar todos nossos pagamentos.\
 O endereço da Wallet é: 0x5bdC8B5576757fA60D0cD9D47bAF211417B8a20f
 
 O pagamentos são realizados entre o dia 5 a 10 de cada mês.\
-Remuneramos o equivalente a 0,0231 USDC por palavra traduzida.\
+Remuneramos o equivalente a 0,024 USDC por palavra traduzida.\
 Sempre que o montante traduzido soma 100 USDC por tradutor, podemos realizar uma transação de pagamento.\
 \
 Todos os históricos de transações realizados estão disponíveis para vi[ Tradução.](https://gnosis-safe.io/app/matic:0x5bdC8B5576757fA60D0cD9D47bAF211417B8a20f/transactions/history)
