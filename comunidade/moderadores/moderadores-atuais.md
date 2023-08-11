@@ -2,13 +2,16 @@
 
 É importante que você tenha bastante atenção aos moderadores oficiais da comunidade para que não caia nos golpes de fraudadores.
 
-Todos os moderadores podem ser identificados com&#x20;
+Todos os moderadores podem ser identificados com a role @Moderadores
 
 ### Discord
 
-* Daniel Cukier (@danicuki#5520)
-* Melk (@melk#8101)
-* Yan Luiz (@yanluiz#0000)
-* Anna Bida (@Anna Bida#8092)
-* Lorenzo (@lorenzo#7506)
-* Valter (@Valter Lobo#4015)
+* André (@Allluz | W3D)
+* Anna Bida (@A Bida | W3D)
+* Caio Matos (@caiovmatos | W3D)
+* Daniel Cukier (@danicuki | W3D)
+* Lorenzo (@lorenzo | W3D)
+* Melk (@MΞLK | W3D)
+* Valter (@Valter Lobo | W3D)
+* Vinícius (@ViniBlack | W3D)
+* Yan Luiz (@Yan Luiz | W3D)

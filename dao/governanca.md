@@ -18,14 +18,7 @@ A governança será implementada de forma gradual e em fases. No início, todas 
 
 ### Ferramentas e Design
 
-|                                 |                      |
-| ------------------------------- | -------------------- |
-| Tesouraria                      | Seguro para Gnose    |
-| Votação                         | Instantâneo da Gnose |
-| Token de Governança             | W3D                  |
-| Proprietário do Cofre da Gnose  | Multi-sinal (2 de 3) |
-| Proprietário do Gnosis Snapshop | Multi-sinal (2 de 3) |
-| Votação Delegada                | Delegar todos        |
+<table><thead><tr><th></th><th width="220.33333333333331"></th></tr></thead><tbody><tr><td>Tesouraria</td><td>Seguro para Gnose</td></tr><tr><td>Votação</td><td>Instantâneo da Gnose</td></tr><tr><td>Token de Governança</td><td>W3D</td></tr><tr><td>Proprietário do Cofre da Gnose</td><td>Multi-sinal (2 de 3)</td></tr><tr><td>Proprietário do Gnosis Snapshop</td><td>Multi-sinal (2 de 3)</td></tr><tr><td>Votação Delegada</td><td>Delegar todos</td></tr></tbody></table>
 
 ### Propostas
 

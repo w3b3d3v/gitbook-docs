@@ -11,7 +11,6 @@
 
 ## Comunidade
 
-* [Categorias e Benefícios](comunidade/categorias-e-beneficios.md)
 * [Programa de Afiliados](comunidade/programa-de-afiliados.md)
 * [Iniciativas da Comunidade](comunidade/iniciativas-da-comunidade.md)
 * [Moderadores](comunidade/moderadores/README.md)

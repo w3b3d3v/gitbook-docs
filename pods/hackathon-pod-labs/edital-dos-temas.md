@@ -174,20 +174,10 @@ Desafio: Desenvolver o design e/ou o front-end para o Marketplace de Atividades 
 
 ## 🚩  Prazos
 
-| Data (2023)    | Agenda                                                   |
-| -------------- | -------------------------------------------------------- |
-| 10-04          | Início das atividades                                    |
-| 02-05 \~ 05-05 | Apresentação dos projetos e última semana de entrega     |
-| 10-05          | Divulgação dos resultados e vencedores de cada categoria |
+<table data-header-hidden><thead><tr><th width="174"></th><th></th></tr></thead><tbody><tr><td>Data (2023)</td><td>Agenda</td></tr><tr><td>10-04</td><td>Início das atividades</td></tr><tr><td>02-05 ~ 05-05</td><td>Apresentação dos projetos e última semana de entrega</td></tr><tr><td>10-05</td><td>Divulgação dos resultados e vencedores de cada categoria</td></tr></tbody></table>
 
 ## 📩  Contato
 
 Conheça os canais de atendimento para saber mais sobre o Hackathon Pod Labs: Reinventando a Experiência de Aprender
 
-| Canal de Comunicação     | Função                       | Informação de contato                                                                                        |
-| ------------------------ | ---------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Discord (canal Pod Labs) | Suporte                      | [https://discord.com/E66Bs9Ea](https://discord.com/E66Bs9Ea)                                                 |
-| E-mail                   | Sugestões, Críticas          | [labs@web3dev.com.br](mailto:labs@web3dev.com.br)                                                            |
-| Web3Dev                  | Edital Geral                 | [https://web3dev.com.br/edital](https://docs.web3dev.com.br/pods/hackathon-pod-labs/edital-geral)            |
-| Web3Dev                  | Edital dos Temas e Premiação | [https://web3dev.com.br/temas-premios](https://docs.web3dev.com.br/pods/hackathon-pod-labs/edital-dos-temas) |
-| Google                   | Formulário de Inscrição      | [https://web3dev.com.br/hacka-form](https://forms.gle/1ashmV7joe7bApzXA)                                     |
+<table data-header-hidden><thead><tr><th width="175.33333333333331"></th><th width="179"></th><th></th></tr></thead><tbody><tr><td>Canal de Comunicação</td><td>Função</td><td>Informação de contato</td></tr><tr><td>Discord (canal Pod Labs)</td><td>Suporte</td><td><a href="https://discord.com/E66Bs9Ea">https://discord.com/E66Bs9Ea</a></td></tr><tr><td>E-mail</td><td>Sugestões, Críticas</td><td><a href="mailto:labs@web3dev.com.br">labs@web3dev.com.br</a></td></tr><tr><td>Web3Dev</td><td>Edital Geral</td><td><a href="https://docs.web3dev.com.br/pods/hackathon-pod-labs/edital-geral">https://web3dev.com.br/edital</a></td></tr><tr><td>Web3Dev</td><td>Edital dos Temas e Premiação</td><td><a href="https://docs.web3dev.com.br/pods/hackathon-pod-labs/edital-dos-temas">https://web3dev.com.br/temas-premios</a></td></tr><tr><td>Google</td><td>Formulário de Inscrição</td><td><a href="https://forms.gle/1ashmV7joe7bApzXA">https://web3dev.com.br/hacka-form</a></td></tr></tbody></table>
