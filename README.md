@@ -4,7 +4,7 @@ layout: landing
 
 # Welcome to WEB3DEV
 
-<figure><img src=".gitbook/assets/Linkedin Cover.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1694713010334.jpeg" alt=""><figcaption></figcaption></figure>
 
 
 
