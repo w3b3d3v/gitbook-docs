@@ -8,7 +8,6 @@ Todos os moderadores podem ser identificados com a role @Moderadores
 
 * André (@Allluz | W3D)
 * Anna Bida (@A Bida | W3D)
-* Caio Matos (@caiovmatos | W3D)
 * Daniel Cukier (@danicuki | W3D)
 * Lorenzo (@lorenzo | W3D)
 * Melk (@MΞLK | W3D)
