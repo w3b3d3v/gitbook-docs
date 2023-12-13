@@ -12,7 +12,7 @@ Evoluir as plataformas da web3dev e consequentemente ser um ambiente propício p
 
 @Nevix#8888 - Nevix | W3D
 
-@Mitish98#6039
+@andressa\_zx
 
 ## **OKRs relacionadas**
 
