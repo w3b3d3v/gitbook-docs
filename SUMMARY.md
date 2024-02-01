@@ -17,24 +17,24 @@
   * [Moderadores Atuais](comunidade/moderadores/moderadores-atuais.md)
   * [Como se tornar](comunidade/moderadores/como-se-tornar.md)
 
-## PODs
+## Nossa gestão
 
-* [Introdução](pods/introducao.md)
-* [PODs Ativos](pods/pods-ativos/README.md)
-  * [🌀・Comunidade](pods/pods-ativos/comunidade.md)
-  * [🧪 Labs](pods/pods-ativos/labs/README.md)
-    * [Hackathon Pod Labs](pods/pods-ativos/labs/hackathon-pod-labs/README.md)
-      * [Edital Geral](pods/pods-ativos/labs/hackathon-pod-labs/edital-geral.md)
-      * [Edital dos Temas](pods/pods-ativos/labs/hackathon-pod-labs/edital-dos-temas.md)
-      * [Edital de Incubação](pods/pods-ativos/labs/hackathon-pod-labs/edital-de-incubacao.md)
-  * [🎓・Learn2Earn](pods/pods-ativos/learn2earn.md)
-  * [😎・Midiático](pods/pods-ativos/midiatico/README.md)
-    * [Template para criação de Vídeos](pods/pods-ativos/midiatico/template-para-criacao-de-videos.md)
-  * [🌐・Tradução](pods/pods-ativos/traducoes.md)
-* [PODs Desativos](pods/pods-ativos-1/README.md)
-  * [🎓・Educação](pods/pods-ativos-1/bootcamp.md)
-  * [🌎・Expansão Global](pods/pods-ativos-1/expansao-global.md)
-  * [📈・Growth](pods/pods-ativos-1/growth.md)
+* [Introdução](nossa-gestao/introducao.md)
+* [PODs Ativos](nossa-gestao/pods-ativos/README.md)
+  * [🌀・Comunidade](nossa-gestao/pods-ativos/comunidade.md)
+  * [🧪 Labs](nossa-gestao/pods-ativos/labs/README.md)
+    * [Hackathon Pod Labs](nossa-gestao/pods-ativos/labs/hackathon-pod-labs/README.md)
+      * [Edital Geral](nossa-gestao/pods-ativos/labs/hackathon-pod-labs/edital-geral.md)
+      * [Edital dos Temas](nossa-gestao/pods-ativos/labs/hackathon-pod-labs/edital-dos-temas.md)
+      * [Edital de Incubação](nossa-gestao/pods-ativos/labs/hackathon-pod-labs/edital-de-incubacao.md)
+  * [🎓・Learn2Earn](nossa-gestao/pods-ativos/learn2earn.md)
+  * [😎・Midiático](nossa-gestao/pods-ativos/midiatico/README.md)
+    * [Template para criação de Vídeos](nossa-gestao/pods-ativos/midiatico/template-para-criacao-de-videos.md)
+  * [🌐・Tradução](nossa-gestao/pods-ativos/traducoes.md)
+* [PODs Desativos](nossa-gestao/pods-ativos-1/README.md)
+  * [🎓・Educação](nossa-gestao/pods-ativos-1/bootcamp.md)
+  * [🌎・Expansão Global](nossa-gestao/pods-ativos-1/expansao-global.md)
+  * [📈・Growth](nossa-gestao/pods-ativos-1/growth.md)
 
 ## Web3 Hour
 
