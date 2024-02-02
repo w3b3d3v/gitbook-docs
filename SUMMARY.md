@@ -19,7 +19,7 @@
 
 ## Nossa gestão
 
-* [Introdução](nossa-gestao/introducao/README.md)
+* [Introdução](nossa-gestao/introducao.md)
   * [Role](nossa-gestao/introducao/role.md)
   * [Núcleos ou Chapters](nossa-gestao/introducao/nucleos-ou-chapters.md)
   * [Squads](nossa-gestao/introducao/squads/README.md)
