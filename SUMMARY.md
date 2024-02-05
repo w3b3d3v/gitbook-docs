@@ -11,7 +11,6 @@
 
 ## Comunidade
 
-* [Programa de Afiliados](comunidade/programa-de-afiliados.md)
 * [Iniciativas da Comunidade](comunidade/iniciativas-da-comunidade.md)
 * [Moderadores](comunidade/moderadores/README.md)
   * [Moderadores Atuais](comunidade/moderadores/moderadores-atuais.md)
@@ -19,7 +18,7 @@
 
 ## Nossa gestão
 
-* [Introdução](nossa-gestao/introducao.md)
+* [Introdução](nossa-gestao/introducao/README.md)
   * [Role](nossa-gestao/introducao/role.md)
   * [Núcleos ou Chapters](nossa-gestao/introducao/nucleos-ou-chapters.md)
   * [Squads](nossa-gestao/introducao/squads/README.md)
