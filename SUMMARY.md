@@ -15,14 +15,11 @@
 * [Moderadores](comunidade/moderadores/README.md)
   * [Moderadores Atuais](comunidade/moderadores/moderadores-atuais.md)
   * [Como se tornar](comunidade/moderadores/como-se-tornar.md)
-
-## Nossa gestão
-
-* [Introdução](nossa-gestao/introducao/README.md)
-  * [Role](nossa-gestao/introducao/role.md)
-  * [Núcleos ou Chapters](nossa-gestao/introducao/nucleos-ou-chapters.md)
-  * [Squads](nossa-gestao/introducao/squads/README.md)
-    * [Processo de criação do Squad](nossa-gestao/introducao/squads/processo-de-criacao-do-squad.md)
+* [Nossa gestão](comunidade/introducao/README.md)
+  * [Role](comunidade/introducao/role.md)
+  * [Núcleos ou Chapters](comunidade/introducao/nucleos-ou-chapters.md)
+  * [Squads](comunidade/introducao/squads/README.md)
+    * [Processo de criação do Squad](comunidade/introducao/squads/processo-de-criacao-do-squad.md)
 
 ## Web3 Hour
 
