@@ -1,4 +1,8 @@
-# Role
+---
+description: Papéis ou Roles são a mesma coisa, ok?
+---
+
+# Outros papéis
 
 ### Definição:&#x20;
 

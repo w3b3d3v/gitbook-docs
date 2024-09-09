@@ -1,6 +1,6 @@
-# Manual da Comunidade web3dev
+# Manual da Comunidade WEB3DEV
 
-A web3dev é uma comunidade aberta para profissionais de tecnologia que desejam aprender e trabalhar com web3.
+A WEB3DEV é uma comunidade aberta para profissionais de tecnologia que desejam aprender e trabalhar com web3.
 
 O objetivo da comunidade é ampliar o potencial de cada membro, seja no âmbito pessoal ou profissional, sejam em habilidades técnicas ou comportamentais.
 
@@ -24,7 +24,7 @@ Para participar da comunidade no site, focada em artigos e conteúdos de alta qu
 Para acessar e participar da comunidade no Discord, basta seguir os passos abaixo:
 
 1. [Crie uma conta no Discord](https://discordapp.com/register)​
-2. Acesse o servidor do [discord da web3dev](https://discord.web3dev.com.br).
+2. Acesse o servidor do [discord da WEB3DEV](https://discord.web3dev.com.br).
 3. Pronto!
 
 Se você achar este manual útil, deixe-nos saber pelo canal #elogios. Adoramos ouvir você 💫
