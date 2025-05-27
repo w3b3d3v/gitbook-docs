@@ -15,7 +15,7 @@
 * [Moderadores](comunidade/moderadores/README.md)
   * [Moderadores Atuais](comunidade/moderadores/moderadores-atuais.md)
   * [Como se tornar](comunidade/moderadores/como-se-tornar.md)
-  * [Outros papéis](comunidade/moderadores/outros-papeis.md)
+  * [Outros papéis](comunidade/introducao/role.md)
 
 ## Termos
 

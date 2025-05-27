@@ -69,7 +69,7 @@ Caso chegue ao nosso conhecimento que um menor de idade está utilizando nossos 
 ### 8. Quais são seus direitos
 
 1. **Acesso aos seus Dados:** você pode solicitar o acesso aos seus Dados que coletamos e armazenamos, bem como informações sobre a fonte dos dados e sua finalidade.
-2. **Revisão, modificação e/ou exclusão dos seus Dados:**você pode solicitar que revisemos, modifiquemos ou, nas situações em que isso seja possível, que façamos a exclusão dos seus Dados. Por favor, note que, em alguns casos, as solicitações de exclusão de Dados impedirão, necessariamente, que você utilize nossos Serviços.
+2. **Revisão, modificação e/ou exclusão dos seus Dados:**&#x76;ocê pode solicitar que revisemos, modifiquemos ou, nas situações em que isso seja possível, que façamos a exclusão dos seus Dados. Por favor, note que, em alguns casos, as solicitações de exclusão de Dados impedirão, necessariamente, que você utilize nossos Serviços.
 3. **Retirada do consentimento:** sempre que desejar, você poderá revogar seu consentimento, nos casos aplicáveis, para o tratamento e armazenamento dos seus Dados. Neste caso, procederemos à exclusão dos seus Dados, sempre que não for nossa obrigação legal ou regulatória a sua manutenção.
 
 Por questões de segurança, destacamos que precisamos nos certificar da sua identidade para atender qualquer uma das solicitações aqui descritas. Por isso, poderemos vir a solicitar dados ou informações adicionais, com o intuito de confirmar a identidade do Titular e a autenticidade da solicitação.
